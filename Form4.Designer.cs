@@ -292,7 +292,7 @@ namespace ExeCRUD
             this.button3.ForeColor = System.Drawing.SystemColors.Highlight;
             this.button3.Location = new System.Drawing.Point(640, 264);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(131, 42);
+            this.button3.Size = new System.Drawing.Size(118, 42);
             this.button3.TabIndex = 9;
             this.button3.Text = "Delete";
             this.button3.UseVisualStyleBackColor = true;

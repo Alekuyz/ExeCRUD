@@ -271,6 +271,7 @@ namespace ExeCRUD
             this.button1.TabIndex = 10;
             this.button1.Text = "Add";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -284,6 +285,7 @@ namespace ExeCRUD
             this.button2.TabIndex = 11;
             this.button2.Text = "Save";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
@@ -297,6 +299,7 @@ namespace ExeCRUD
             this.button3.TabIndex = 12;
             this.button3.Text = "Delete";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // namaTableAdapter
             // 
